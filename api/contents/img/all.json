@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-05-19T14:53:38.590098Z",
+      "created": "2026-05-21T14:04:05.845832Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-05-19T14:53:20.236122Z",
+      "last_modified": "2026-05-21T14:03:48.516800Z",
       "mimetype": "image/png",
       "name": "ARC448p.png",
       "path": "img/ARC448p.png",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-05-19T14:53:38.590098Z",
+  "created": "2026-05-21T14:04:05.845832Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-05-19T14:53:38.590098Z",
+  "last_modified": "2026-05-21T14:04:05.845832Z",
   "mimetype": null,
   "name": "img",
   "path": "img",
